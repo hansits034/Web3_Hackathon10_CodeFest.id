@@ -3,10 +3,17 @@ This repository contains the source code for Miyu, our group's project for the C
 
 # Preview✨
 Here's a glimpse of what Miyu looks like and how it works.
-(Image)
+<img width="2526" height="1253" alt="image" src="https://github.com/user-attachments/assets/0d1bc8c7-a6af-4b53-8337-02fe5ee0cd57" />
+<img width="2526" height="1259" alt="image" src="https://github.com/user-attachments/assets/916cf2cb-0fcf-4e2c-a845-f4f3a97265ae" />
+<img width="2528" height="1255" alt="image" src="https://github.com/user-attachments/assets/4fc1cce5-7a4e-4faf-86da-83e99be228e7" />
+<img width="2523" height="1255" alt="image" src="https://github.com/user-attachments/assets/3ee559b4-ac8d-49c5-8092-a036f2f39b4a" />
+
+
+
+Limited Interactive: (Link)
 Our application features a clean user interface for matching, chatting, and managing your decentralized profile.
 Check out this short video demonstrating the app's core functionalities in action:
-(Video Links)
+[(Video Links)](https://drive.google.com/file/d/1rYlSDrjbQpQ3pfPU1wie7KfHVKCrf0I9/view?usp=sharing)
 
 # My Participation
 In this project, my primary role was leading the front-end development. I was responsible for translating the UI/UX designs into a fully functional, responsive, and interactive user interface. This involved building out all the components, managing the application's state, and integrating the front-end with the Web3 backend infrastructure to ensure a seamless user experience.
