@@ -10,7 +10,7 @@ Here's a glimpse of what Miyu looks like and how it works.
 
 
 
-Limited Interactive: (Link)
+Limited Interactive: [(Link)](https://hansits034.github.io/miyu-fix-frontend/index.html)
 Our application features a clean user interface for matching, chatting, and managing your decentralized profile.
 Check out this short video demonstrating the app's core functionalities in action:
 [(Video Links)](https://drive.google.com/file/d/1rYlSDrjbQpQ3pfPU1wie7KfHVKCrf0I9/view?usp=sharing)
