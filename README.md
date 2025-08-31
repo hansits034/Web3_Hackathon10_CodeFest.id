@@ -1,5 +1,17 @@
-# `miyu-fix`
+# `What's This About?`🚀
+This repository contains the source code for Miyu, our group's project for the Codefest.id Hackathon10. Miyu is a unique dating application built within a Web3 environment, designed to offer a more secure and user-centric experience. This project was a collaborative effort by a team of five. Real repo: https://github.com/ricii1/miyu-fix?tab=readme-ov-file#note-on-frontend-environment-variables
 
+# Preview✨
+Here's a glimpse of what Miyu looks like and how it works.
+(Image)
+Our application features a clean user interface for matching, chatting, and managing your decentralized profile.
+Check out this short video demonstrating the app's core functionalities in action:
+(Video Links)
+
+# My Participation
+In this project, my primary role was leading the front-end development. I was responsible for translating the UI/UX designs into a fully functional, responsive, and interactive user interface. This involved building out all the components, managing the application's state, and integrating the front-end with the Web3 backend infrastructure to ensure a seamless user experience.
+
+# `miyu-fix`
 Welcome to your new <a href="https://docs.google.com/document/d/1d39-6S0QK5DoH1gVvbSGPvQkPAJvF9EvftP2TDQ8uVk/edit?tab=t.0" target="_blank">`miyu-fix`</a> project and to the Internet Computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
